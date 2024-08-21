@@ -1,10 +1,12 @@
-Certainly! Here's your text formatted with Markdown to emphasize key points:
+# ChatPay X Cere X WebZero
 
----
+tPay is a Telegram Mini Apps that brings decentralization to data acquisition for the common good, allowing users to sell their data instead of having it taken by large platforms.
 
-# ChatPay X Cere X Blockspace
+During this hackathon, we developed a feature that allows users to store the data generated during quests in a centralized manner, leveraging [Cere](https://www.cere.network/)'s technology.
 
-## Hackathon Judges and Organizers FAQ
+## FAQ
+
+_For The Hackhaton Jury and Organizers_
 
 ### Why so little code? Why is only one feature open source?
 
