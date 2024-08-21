@@ -1,6 +1,6 @@
 # ChatPay X Cere X WebZero
 
-tPay is a Telegram Mini Apps that brings decentralization to data acquisition for the common good, allowing users to sell their data instead of having it taken by large platforms.
+ChatPay is a [Telegram Mini App](https://t.me/chatpayapp_bot/chatpayapp) that brings decentralization to data acquisition for the common good, allowing users to sell their data instead of having it taken by large platforms.
 
 During this hackathon, we developed a feature that allows users to store the data generated during quests in a centralized manner, leveraging [Cere](https://www.cere.network/)'s technology.
 
