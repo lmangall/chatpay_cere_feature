@@ -1,7 +1,7 @@
 Hackathon judges and organizers FAQ:
 
 Why so little code, why only having a feature open source ?
-The ChatPay team is really dedicated in working on its product. We want to work on it and develop it, we believe it is a project for the common good, but we don't want to give it away ;)
+The ChatPay team is really dedicated in working on its product. We want to work on it and develop it, we believe it is a project for the common good, but we don't want to give it away ;-)
 
 At what stage is ChatPay ?
 Our product is still an "advanced POC" with 1300+ users (organic). While we develop the product itself we seek for strategic partnerships and investment
