@@ -1,3 +1,5 @@
+# ChatPay X Cere
+
 Hackathon judges and organizers FAQ:
 
 Why so little code, why only having a feature open source ?
